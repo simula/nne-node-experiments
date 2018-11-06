@@ -1,0 +1,16 @@
+{
+  "node_id": 70,
+  "instances": [
+    {
+      "measurement_id": 99995,
+      "measurement_desc_id": 1,
+      "measurement_desc": "RTT measurement",
+      "network_id": 2,
+      "mcc": "242",
+      "mnc": "14",
+      "container": "dreibh/udpping",
+      "start_time": "2017-05-19 16:22:13",
+      "stop_time": "None"
+    }
+  ]
+}
