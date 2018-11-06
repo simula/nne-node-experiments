@@ -1,8 +1,8 @@
 {
-  "node_id": 864,
+  "node_id": 58,
   "instances": [
     {
-      "measurement_id": 9617,
+      "measurement_id": 99999,
       "measurement_desc_id": 1,
       "measurement_desc": "RTT measurement",
       "network_id": 2,
@@ -13,7 +13,7 @@
       "stop_time": "None"
     },
     {
-      "measurement_id": 9756,
+      "measurement_id": 99998,
       "measurement_desc_id": 16,
       "measurement_desc": "Combined speedtest.net and web page load test",
       "network_id": 2,
