@@ -7,13 +7,35 @@
       "measurement_desc": "RTT measurement",
       "network_id": 2,
       "mcc": "242",
-      "mnc": "02",
+      "mnc": "01",
       "container": "dreibh/udpping",
       "start_time": "2017-05-19 16:22:13",
       "stop_time": "None"
     },
     {
       "measurement_id": 99998,
+      "measurement_desc_id": 1,
+      "measurement_desc": "RTT measurement",
+      "network_id": 2,
+      "mcc": "242",
+      "mnc": "02",
+      "container": "dreibh/udpping",
+      "start_time": "2017-05-19 16:22:13",
+      "stop_time": "None"
+    },
+    {
+      "measurement_id": 99997,
+      "measurement_desc_id": 16,
+      "measurement_desc": "Combined speedtest.net and web page load test",
+      "network_id": 2,
+      "mcc": "242",
+      "mnc": "01",
+      "container": null,
+      "start_time": "2017-08-10 09:38:30",
+      "stop_time": "None"
+    },
+    {
+      "measurement_id": 99996,
       "measurement_desc_id": 16,
       "measurement_desc": "Combined speedtest.net and web page load test",
       "network_id": 2,
