@@ -1,1 +1,1 @@
-{"instances": [{"measurement_id": 9930, "measurement_desc": "RTT measurement", "stop_time": "None", "measurement_desc_id": 1, "network_id": 16, "container": "dreibh/udpping", "start_time": "2018-06-25 11:11:17", "mnc": "06", "mcc": "260"}], "node_id": 962}
+{"node_id": 962, "instances": [{"measurement_id": 9930, "measurement_desc_id": 1, "measurement_desc": "RTT measurement", "network_id": 16, "mcc": "260", "mnc": "06", "container": "dreibh/udpping", "start_time": "2018-06-25 11:11:17", "stop_time": "None"}]}
